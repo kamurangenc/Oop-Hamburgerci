@@ -1,0 +1,15 @@
+C:\Bilal\YZL5455\3-OOP\21_OOP_Hamburgerci\21_OOP_Hamburgerci\bin\Debug\21_OOP_Hamburgerci.exe.config
+C:\Bilal\YZL5455\3-OOP\21_OOP_Hamburgerci\21_OOP_Hamburgerci\bin\Debug\21_OOP_Hamburgerci.exe
+C:\Bilal\YZL5455\3-OOP\21_OOP_Hamburgerci\21_OOP_Hamburgerci\bin\Debug\21_OOP_Hamburgerci.pdb
+C:\Bilal\YZL5455\3-OOP\21_OOP_Hamburgerci\21_OOP_Hamburgerci\obj\Debug\21_OOP_Hamburgerci.csproj.AssemblyReference.cache
+C:\Bilal\YZL5455\3-OOP\21_OOP_Hamburgerci\21_OOP_Hamburgerci\obj\Debug\21_OOP_Hamburgerci.csproj.SuggestedBindingRedirects.cache
+C:\Bilal\YZL5455\3-OOP\21_OOP_Hamburgerci\21_OOP_Hamburgerci\obj\Debug\_21_OOP_Hamburgerci.frmExtraEkle.resources
+C:\Bilal\YZL5455\3-OOP\21_OOP_Hamburgerci\21_OOP_Hamburgerci\obj\Debug\_21_OOP_Hamburgerci.frmHamburgerEkle.resources
+C:\Bilal\YZL5455\3-OOP\21_OOP_Hamburgerci\21_OOP_Hamburgerci\obj\Debug\_21_OOP_Hamburgerci.frmMainMdi.resources
+C:\Bilal\YZL5455\3-OOP\21_OOP_Hamburgerci\21_OOP_Hamburgerci\obj\Debug\_21_OOP_Hamburgerci.frmSiparisBilgileri.resources
+C:\Bilal\YZL5455\3-OOP\21_OOP_Hamburgerci\21_OOP_Hamburgerci\obj\Debug\_21_OOP_Hamburgerci.frmSiparisOlustur.resources
+C:\Bilal\YZL5455\3-OOP\21_OOP_Hamburgerci\21_OOP_Hamburgerci\obj\Debug\_21_OOP_Hamburgerci.Properties.Resources.resources
+C:\Bilal\YZL5455\3-OOP\21_OOP_Hamburgerci\21_OOP_Hamburgerci\obj\Debug\21_OOP_Hamburgerci.csproj.GenerateResource.cache
+C:\Bilal\YZL5455\3-OOP\21_OOP_Hamburgerci\21_OOP_Hamburgerci\obj\Debug\21_OOP_Hamburgerci.csproj.CoreCompileInputs.cache
+C:\Bilal\YZL5455\3-OOP\21_OOP_Hamburgerci\21_OOP_Hamburgerci\obj\Debug\21_OOP_Hamburgerci.exe
+C:\Bilal\YZL5455\3-OOP\21_OOP_Hamburgerci\21_OOP_Hamburgerci\obj\Debug\21_OOP_Hamburgerci.pdb
